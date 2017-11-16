@@ -36,3 +36,6 @@ if salary.isdigit():#判断工资是否为数字
 else:
     print("请输入整数的工资")
 
+
+# github test
+
